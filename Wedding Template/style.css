@@ -1404,10 +1404,10 @@ button:hover {
 .footer {
   background-color: #6e5141;
   color: white;
-  /* padding: 1rem; */
+  padding: 1rem;
   font-size: 14px;
   text-align: center;
-  /* height: 50px; */
+  padding-bottom: -15px;
 }
 
 
@@ -1432,6 +1432,7 @@ img {
   height: auto;
   display: block;
 }
+
 
 
 
