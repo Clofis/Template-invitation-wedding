@@ -1407,7 +1407,7 @@ button:hover {
   padding: 1rem;
   font-size: 14px;
   text-align: center;
-  height: 10px;
+  height: 30px;
 }
 
 
@@ -1432,4 +1432,5 @@ img {
   height: auto;
   display: block;
 }
+
 
